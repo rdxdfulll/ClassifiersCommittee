@@ -60,3 +60,30 @@ Copyright Commonwealth of Australia 2010, Bureau of Meteorology.
 - **Temp3pm**: Temperature (degrees C) at 3pm
 - **RainToday**: Boolean: 1 if precipitation (mm) in the 24 hours to 9am exceeds 1mm, otherwise 0
 - **RainTomorrow**: The amount of next day rain in mm. Used to create response variable RainTomorrow. A kind of measure of the "risk".
+
+---
+
+## Colunas
+- **Date**: A data da observação
+- **Location**: O nome comum do local da estação meteorológica
+- **MinTemp**: A temperatura mínima em graus Celsius
+- **MaxTemp**: A temperatura máxima em graus Celsius
+- **Rainfall**: A quantidade de chuva registrada no dia em mm
+- **Evaporation**: A chamada evaporação de tanque Classe A (mm) nas 24 horas até as 09:00
+- **Sunshine**: O número de horas de sol pleno durante o dia
+- **WindGustDir**: A direção da rajada de vento mais forte nas 24 horas até a meia-noite
+- **WindGustSpeed**: A velocidade (km/h) da rajada de vento mais forte nas 24 horas até a meia-noite
+- **WindDir9am**: Direção do vento às 09:00
+- **WindDir3pm**: Direção do vento às 15:00
+- **WindSpeed9am**: Velocidade do vento (km/h) média nos 10 minutos anteriores às 09:00
+- **WindSpeed3pm**: Velocidade do vento (km/h) média nos 10 minutos anteriores às 15:00
+- **Humidity9am**: Umidade (percentual) às 09:00
+- **Humidity3pm**: Umidade (percentual) às 15:00
+- **Pressure9am**: Pressão atmosférica (hPa) reduzida ao nível médio do mar às 09:00
+- **Pressure3pm**: Pressão atmosférica (hPa) reduzida ao nível médio do mar às 15:00
+- **Cloud9am**: Fração do céu encoberta por nuvens às 09:00. É medida em "oktas", que são unidades de oitavos. Registra quanto
+- **Cloud3pm**: Fração do céu encoberta por nuvens (em "oktas": oitavos) às 15:00. Veja Cloud9am para a descrição dos valores
+- **Temp9am**: Temperatura (graus Celsius) às 09:00
+- **Temp3pm**: Temperatura (graus Celsius) às 15:00
+- **RainToday**: Booleano: 1 se a precipitação (mm) nas 24 horas até as 09:00 exceder 1mm, caso contrário 0
+- **RainTomorrow**: A quantidade de chuva no dia seguinte em mm. Usada para criar a variável de resposta RainTomorrow. Uma espécie de medida do "risco".
