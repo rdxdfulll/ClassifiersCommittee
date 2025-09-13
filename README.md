@@ -1,5 +1,7 @@
 # Comitê de Classificadores | Projeto N1
 
+#### Google Colab: https://colab.research.google.com/drive/1djx2s_zzAdDCwhxLfm3WgwBZnAHMP3Ze?usp=sharing
+
 ### Dataset escolhido: Rain in Australia
 - Predict next-day rain in Australia
 - https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
