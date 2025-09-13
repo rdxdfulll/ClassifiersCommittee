@@ -1,5 +1,24 @@
+# Comitê de Classificadores | Projeto N1
+
+### Dataset escolhido: Rain in Australia
+- Predict next-day rain in Australia
+- https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
+
+### Algoritmos escolhidos:
+- K-Nearest Neighbors (KNN)
+- Decision Tree Classifier (Tree-Based)
+- Random Forest Classifier (Tree-Based)
+- LightGBM Classifier (Tree-Based)
+- CatBoost Classifier (Tree-Based)
+- Gaussian Naive Bayes (Naive Bayes)
+- Support Vector Classification (SVC)
+- Multi-Layer Perceptron (MLPClassifier)
+- AdaBoost Classifier (Ensemble Methods)
+- Quadratic Discriminant Analysis (QDA)
+
+
 -----------------------------------
-### Roteiro de atividades:
+## Roteiro de atividades:
 **Objetivo:**
 - Criar um programa classificador (comitê de Classificadores) com aprendizagem supervisionada e
 empregando ao menos 2 (dois) classificadores em um Data Set que possua rótulos verdadeiros da classe.
