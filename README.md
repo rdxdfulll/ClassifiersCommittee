@@ -3,8 +3,8 @@
 #### Google Colab: https://colab.research.google.com/drive/1djx2s_zzAdDCwhxLfm3WgwBZnAHMP3Ze?usp=sharing
 
 ### Dataset escolhido: Rain in Australia
-- Predict next-day rain in Australia
-- https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
+- **Detalhado em:** https://github.com/MachineNeyarning/ClassifiersCommittee/tree/main/dataset
+- **Fonte:** https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
 
 ### Algoritmos escolhidos:
 - K-Nearest Neighbors (KNN)
