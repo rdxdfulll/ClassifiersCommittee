@@ -13,6 +13,7 @@
 - XGBoost Classifier (Tree-Based)
 - LightGBM Classifier (Tree-Based)
 - CatBoost Classifier (Tree-Based)
+- Perceptron
 - Gaussian Naive Bayes (Naive Bayes)
 - Support Vector Classification (SVC)
 - Multi-Layer Perceptron (MLPClassifier)
