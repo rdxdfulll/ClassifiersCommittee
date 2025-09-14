@@ -10,6 +10,7 @@
 - K-Nearest Neighbors (KNN)
 - Decision Tree Classifier (Tree-Based)
 - Random Forest Classifier (Tree-Based)
+- XGBoost (Tree-Based)
 - LightGBM Classifier (Tree-Based)
 - CatBoost Classifier (Tree-Based)
 - Gaussian Naive Bayes (Naive Bayes)
