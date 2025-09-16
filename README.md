@@ -2,6 +2,14 @@
 
 #### Google Colab: https://colab.research.google.com/drive/1djx2s_zzAdDCwhxLfm3WgwBZnAHMP3Ze?usp=sharing
 
+---
+## Grupo:
+- Gustavo Henrique Martins
+- Ícaro Botelho
+- Maria Clara Seixa Scheffel
+- Maruan Biasi El Achkar
+- Ricardo Falcão Schlieper
+
 ### Dataset escolhido: Rain in Australia
 - **Detalhado em:** [/dataset](/dataset)
 - **Fonte:** https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
