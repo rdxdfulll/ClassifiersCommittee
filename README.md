@@ -8,8 +8,8 @@
 
 ### Algoritmos escolhidos:
 - K-Nearest Neighbors (KNN)
-- Decision Tree Classifier (Tree-Based) - Feito
-- Random Forest Classifier (Tree-Based) - Feito
+- Decision Tree Classifier (Tree-Based)
+- Random Forest Classifier (Tree-Based)
 - XGBoost Classifier (Tree-Based)
 - LightGBM Classifier (Tree-Based)
 - CatBoost Classifier (Tree-Based)
