@@ -1,6 +1,7 @@
 # Comitê de Classificadores | Projeto N1
 
 #### Google Colab: https://colab.research.google.com/drive/1djx2s_zzAdDCwhxLfm3WgwBZnAHMP3Ze?usp=sharing
+- O Colab está com problemas no versionamento, recomendo visualizar o arquivo .ipynb aqui deste repo para ver a versão mais recente.
 
 ---
 ## Grupo:
@@ -35,7 +36,7 @@
 
 
 ### Relatório de Desempenho dos Algoritmos:
-| Model                 | Accuracy | Precision | Recall | F1-score |
+| **Model**                 | **Accuracy** | **Precision** | **Recall** | **F1-score** |
 |------------------------|----------|-----------|--------|----------|
 | **LightGBM**              | 0.8646   | 0.7574    | 0.5666 | 0.6483   |
 | **CatBoost**              | 0.8633   | 0.7618    | 0.5521 | 0.6402   |
