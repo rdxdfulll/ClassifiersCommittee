@@ -28,6 +28,45 @@
 - AdaBoost Classifier (Ensemble Methods)
 - Quadratic Discriminant Analysis (QDA)
 
+--------------------
+# Relatório Final
+
+<img width="1189" height="590" alt="download (1)" src="https://github.com/user-attachments/assets/de8326ca-e07e-462c-aedd-6032e68793f2" />
+
+
+### Relatório de Desempenho dos Algoritmos:
+| Model                 | Accuracy | Precision | Recall | F1-score |
+|------------------------|----------|-----------|--------|----------|
+| **LightGBM**              | 0.8646   | 0.7574    | 0.5666 | 0.6483   |
+| **CatBoost**              | 0.8633   | 0.7618    | 0.5521 | 0.6402   |
+| **Random** Forest         | 0.8600   | 0.7626    | 0.5288 | 0.6245   |
+| **SVC**                   | 0.8585   | 0.7865    | 0.4905 | 0.6042   |
+| **MLPClassifier**         | 0.8581   | 0.7456    | 0.5400 | 0.6264   |
+| **XGBoost**               | 0.8569   | 0.7319    | 0.5525 | 0.6297   |
+| **AdaBoost**              | 0.8502   | 0.7252    | 0.5151 | 0.6024   |
+| **KNN**                   | 0.8405   | 0.6852    | 0.5099 | 0.5847   |
+| **QDA**                   | 0.8381   | 0.6568    | 0.5545 | 0.6014   |
+| **Perceptron**            | 0.8298   | 0.6205    | 0.5855 | 0.6025   |
+| **Decision Tree**        | 0.7979   | 0.5409    | 0.5453 | 0.5431   |
+| **Gaussian Naive Bayes**  | 0.7315   | 0.4374    | 0.7178 | 0.5435   |
+
+
+
+### Melhor Algoritmo (baseado na Acurácia):
+- **Algoritmo**: LightGBM
+- **Acurácia**: 0.8646
+- **Precisão**: 0.7574
+- **Recall**: 0.5666
+- **F1-score**: 0.6483
+
+
+### Pior Algoritmo (baseado na Acurácia):
+- **Algoritmo**: Gaussian Naive Bayes
+- **Acurácia**: 0.7315
+- **Precisão**: 0.4374
+- **Recall**: 0.7178
+- **F1-score**: 0.5435
+
 
 -----------------------------------
 ## Roteiro de atividades:
